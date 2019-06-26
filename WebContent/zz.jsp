@@ -11,7 +11,9 @@
 <a href="">这是一个不能跳转的超链接</a>
 <form action="" method="post">
 username<input type="text" name="user">
-password<input type="password" name="pass">
+password<input type="password" name="pass"><br>
+<a href="">登录</a><br>
+<a href="">注册</a>>
 </form>
 </body>
 </html>
