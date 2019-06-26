@@ -12,7 +12,7 @@
 <form action="" method="post">
 username<input type="text" name="user">
 password<input type="password" name="pass"><br>
-<a href="">登录</a><br>
+<a href="">登录</a>$nbsp$nbsp$nbsp$nbsp$nbsp
 <a href="">注册</a>>
 </form>
 </body>
